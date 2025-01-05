@@ -19,7 +19,7 @@ A Model Context Protocol (MCP) server that provides YouTube video transcript ret
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:shahshrey/youtube_transcript_mcp.git
 cd youtube_transcript_server
 ```
 
